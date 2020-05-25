@@ -9,7 +9,7 @@
   "dependencies": {
     "discord.js": "^12.2.0",
     "discord.js-commando": "^0.10.0",
-    "sqlite": "^4.0.8"
+    "sqlite": "^4.0.9"
   },
   "devDependencies": {
     "eslint": "^7.1.0",
